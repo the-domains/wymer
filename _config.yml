@@ -2,12 +2,13 @@ name: Wymer
 favicon: null
 layout_spectrum: 0.46991701633669436
 typography_spectrum: 0.904206377454102
+title: Wymer.com
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-67360421-4
   facebook: null
   twitter: null
 opengraph:
