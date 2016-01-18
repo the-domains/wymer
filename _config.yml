@@ -1,0 +1,28 @@
+name: Wymer
+favicon: null
+layout_spectrum: 0.46991701633669436
+typography_spectrum: 0.904206377454102
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6748776659369469
+  lightness: 0.07345922943204641
+  saturation: 0.44620846305042505
+  rhythmicContrast: 0.38758467114530504
+purpose: []
