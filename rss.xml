@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Wymer.com]]></title>
+        <description><![CDATA[Wymer.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Jan 2016 20:10:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>asdfasdfasdf</p>]]></description>
+            <link>undefinede6c5e1dd-c323-4791-a841-0c27bfebed3d/index.html</link>
+            <guid isPermaLink="false">e6c5e1dd-c323-4791-a841-0c27bfebed3d</guid>
+            <pubDate>Mon, 18 Jan 2016 20:10:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
